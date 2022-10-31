@@ -1,0 +1,15 @@
+/home/pauloestevao/project/dotnet/exemplo-console/bin/Debug/net6.0/exemplo-console
+/home/pauloestevao/project/dotnet/exemplo-console/bin/Debug/net6.0/exemplo-console.deps.json
+/home/pauloestevao/project/dotnet/exemplo-console/bin/Debug/net6.0/exemplo-console.runtimeconfig.json
+/home/pauloestevao/project/dotnet/exemplo-console/bin/Debug/net6.0/exemplo-console.dll
+/home/pauloestevao/project/dotnet/exemplo-console/bin/Debug/net6.0/ref/exemplo-console.dll
+/home/pauloestevao/project/dotnet/exemplo-console/bin/Debug/net6.0/exemplo-console.pdb
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/exemplo-console.csproj.AssemblyReference.cache
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/exemplo-console.GeneratedMSBuildEditorConfig.editorconfig
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/exemplo-console.AssemblyInfoInputs.cache
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/exemplo-console.AssemblyInfo.cs
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/exemplo-console.csproj.CoreCompileInputs.cache
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/exemplo-console.dll
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/ref/exemplo-console.dll
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/exemplo-console.pdb
+/home/pauloestevao/project/dotnet/exemplo-console/obj/Debug/net6.0/exemplo-console.genruntimeconfig.cache
